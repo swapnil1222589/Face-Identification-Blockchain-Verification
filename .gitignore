@@ -1,11 +1,2 @@
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-.env
-.venv/
-venv/
-.pytest_cache/
-*.log
-.DS_Store
-_secret/
-serpapi_upload.*
+# Created by pytest automatically.
+*

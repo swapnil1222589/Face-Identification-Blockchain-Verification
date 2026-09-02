@@ -1,0 +1,7 @@
+[
+  "tests/test_hashing.py::test_canonical_record_is_deterministic",
+  "tests/test_hashing.py::test_identical_content_has_identical_hash",
+  "tests/test_hashing.py::test_modified_content_changes_hash",
+  "tests/test_matcher.py::test_cosine_similarity_identical_vectors",
+  "tests/test_matcher.py::test_match_threshold_is_configurable"
+]
