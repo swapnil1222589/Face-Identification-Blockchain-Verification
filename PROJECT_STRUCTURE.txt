@@ -1,0 +1,25 @@
+hh-goa-face-blockchain/
+├── HH_Goa_Task3.ipynb
+├── app/
+│   ├── __init__.py
+│   ├── face.py
+│   ├── search.py
+│   ├── matcher.py
+│   ├── hashing.py
+│   ├── blockchain.py
+│   ├── ui.py
+│   └── utils.py
+├── contracts/
+│   └── ContentVerifier.sol
+├── scripts/
+│   ├── deploy_contract.py
+│   └── README.md
+├── tests/
+│   ├── test_hashing.py
+│   ├── test_matcher.py
+│   └── test_blockchain.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── README.md
+└── LICENSE
