@@ -10,6 +10,8 @@ SOL = ROOT / "contracts" / "ContentVerifier.sol"
 ART = ROOT / "artifacts"
 ART.mkdir(exist_ok=True)
 
+ROOT = Path(__file__).resolve().parents[1] SOL = ROOT / "contracts" / "ContentVerifier.sol" ART = ROOT / "artifacts" ART.mkdir(exist_ok=True)
+
 RPC_URL = os.environ["RPC_URL"]
 PRIVATE_KEY = os.environ["PRIVATE_KEY"]
 
