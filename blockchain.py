@@ -87,3 +87,4 @@ class ContentVerifierClient:
             "timestamp": int(record[1]),
             "submitter": record[2],
         }
+# def
